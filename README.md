@@ -20,7 +20,7 @@ time – Controle do tempo para geração dos códigos
 ▶️ Como Executar o Projeto
 1️⃣ Clone o repositório:
 
-git clone https://github.com/seuusuario/projeto-2fa.git
+git clone https://github.com/Vini-dev-github/auth01.git
 cd projeto-2fa
 2️⃣ Instale as dependências:
 
