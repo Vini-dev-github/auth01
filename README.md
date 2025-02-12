@@ -20,9 +20,6 @@ time – Controle do tempo para geração dos códigos
 ▶️ Como Executar o Projeto
 1️⃣ Clone o repositório:
 
-bash
-Copy
-Edit
 git clone https://github.com/seuusuario/projeto-2fa.git
 cd projeto-2fa
 2️⃣ Instale as dependências:
